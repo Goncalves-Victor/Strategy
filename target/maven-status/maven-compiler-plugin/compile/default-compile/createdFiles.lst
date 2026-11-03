@@ -1,0 +1,6 @@
+org\example\CalculadoraFrete.class
+org\example\Encomenda.class
+org\example\FreteDHL.class
+org\example\FreteFedEx.class
+org\example\CalculoFrete.class
+org\example\FreteCorreios.class
